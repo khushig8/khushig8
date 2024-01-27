@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khushi !</h1>
-<h3 align="center">A passionate Python coder and a MERN Stack Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushig8" alt="coder-x27" /></a> </p>
 <hr/>
 
 <img align="right" src="/img/Coding image.gif" height='300' width='250'>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at **My Portfolio Website**
 
-- 💬 Ask me about **MERN Stack, Python and Competitive Programming**
+- 💬 Ask me about **MERN Stack and Competitive Programming**
 
 
 <!-- - 📫 How to reach me **visit my portfolio Website <a href="https://karansharma-portfoliosite.netlify.app/" target="_blank">here</a>** -->
