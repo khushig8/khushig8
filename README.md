@@ -61,3 +61,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&hide=css,typescript&theme=radical" width="50%" />
 </p>
+## 🗓️ Yearly Contributions
+
+[![Khushi's Contribution Graph](https://github-contribution-graph.vercel.app/?username=khushig8&bg_color=ffffff&color=4c1e00&line=4c1e00&point=403d3d&area=true&hide_border=true)](https://github.com/khushig8)
