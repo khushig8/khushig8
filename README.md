@@ -67,6 +67,6 @@
 
 <p align="center">
   <a href="https://github.com/khushig8">
-    <img src="https://github-contribution-graph.vercel.app/?username=khushig8&bg=radial-gradient(circle,#2a0845,#6441a5)&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushig8&bg_color=1e1e1e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
