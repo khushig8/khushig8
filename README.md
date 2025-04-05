@@ -63,4 +63,4 @@
 </p>
 ## 🗓️ Yearly Contributions
 
-[![Khushi's Contribution Graph](https://github-contribution-graph.vercel.app/?username=khushig8&bg_color=ffffff&color=4c1e00&line=4c1e00&point=403d3d&area=true&hide_border=true)](https://github.com/khushig8)
+[![Khushi's Contribution Graph][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khushig8&theme=monokai)](https://git.io/streak-stats)
