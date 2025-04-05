@@ -32,7 +32,6 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Use icons in 2-3 lines for readability -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
@@ -61,6 +60,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&hide=css,typescript&theme=radical" width="50%" />
 </p>
-## 🗓️ Yearly Contributions
 
-[![Khushi's Contribution Graph][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khushig8&theme=monokai)](https://git.io/streak-stats)
+---
+
+### 🗓️ Yearly Contributions
+
+<p align="center">
+  <a href="https://github.com/khushig8">
+    <img src="https://github-contribution-graph.vercel.app/?username=khushig8&bg=radial-gradient(circle,#2a0845,#6441a5)&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  </a>
+</p>
