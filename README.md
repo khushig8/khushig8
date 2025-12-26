@@ -27,7 +27,6 @@ Building CRM dashboards, web apps & high-performance UI systems.
   
 
 <p align="center">
-    <img src="https://stats.dooboo.io/api/github-stats?login=khushig8" alt="Alternate stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushig8&show_icons=true&theme=tokyonight" height="155"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=tokyonight" height="155"/>
 </p>
@@ -46,7 +45,11 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khushig8&no-frame=true&margin-w=10&theme=tokyonight&column=4" />
+</p>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=darkhub&margin-w=5" />
 </p>
 
 ---
