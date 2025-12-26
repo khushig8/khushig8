@@ -30,9 +30,10 @@ Building CRM dashboards, web apps & high-performance UI systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushig8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=tokyonight" alt="Top Langs" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushig8&show_icons=true&theme=tokyonight" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=tokyonight" height="155"/>
 </p>
+
 
 ---
 
