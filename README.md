@@ -26,8 +26,8 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khushig8&show_icons=true&theme=radical" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=radical" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushig8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=tokyonight" alt="Top Langs" height="155"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=khushig8&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=khushig8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=algolia&row=1&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophy"/>
 </p>
 
 ---
