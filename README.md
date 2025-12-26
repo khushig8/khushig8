@@ -1,53 +1,77 @@
-<h1 align="center">Hey there 👋, I'm Khushi!</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Curious Learner</h3>
+<h2 align="center">👋 Hi, I'm <b>Khushi Garg</b></h2>
 
 <p align="center">
-  <a href="https://github.com/khushig8">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=onedark&margin-w=15&margin-h=15" alt="khushig8 trophies" />
-  </a>
+🚀 Full Stack Developer | React • Next.js • Node.js • MongoDB<br>
+Building CRM dashboards, web apps & high-performance UI systems.
 </p>
 
 ---
 
-<img align="right" src="/img/Coding image.gif" width="300"/>
+### 🧩 Tech Stack
 
-### 💡 About Me
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css" />
 
-- 🔭 I’m currently learning **App Development**
-- 💬 Ask me about **MERN Stack, JavaScript, Competitive Programming**
-- 🎯 Fun Fact: I leave most things half-done and then restart them from scratch later 😅😂
+**Backend & DB:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+
+**CMS Platforms:**  
+<img src="https://skillicons.dev/icons?i=wordpress,shopify" />
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/khushigarg123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-  </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khushig8&show_icons=true&theme=radical" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushig8&layout=compact&theme=radical" height="155" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔥 Contribution Streak
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=khushig8&theme=radical&hide_border=true" />
 </p>
-
 
 ---
 
+### 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=algolia&row=1&margin-w=10&no-bg=true" />
+</p>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech | Status |
+|--------|-------------|------|--------|
+| **Leadflow CRM** | Lead management dashboard with roles, filters & analytics | Next.js + Tailwind + Node | Building 🔥 |
+| **Gamified Web App (NDA)** | A tap-to-earn mini-app with tasks + rewards | React + Web UI | Done |
+| Shopify/WordPress Sites | Store themes, product pages, UI customization | Shopify/WordPress | Delivered |
+
+---
+
+### 🏗 Currently Working On
+- Full CRM SaaS build for portfolio
+- System design preparation for interviews
+- Frontend + Fullstack hiring readiness
+
+---
+
+### 📩 Connect With Me
+
+📌 Portfolio (coming soon)  
+🔗 LinkedIn: https://linkedin.com/in/khushigarg123  
+🔗 GitHub: https://github.com/khushig8  
+📩 Email: **khushigarg9785@gmail.com**
+
+---
+
+⭐ If you like my work, consider giving my repos a star.  
