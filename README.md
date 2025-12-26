@@ -45,11 +45,17 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushig8-ma&theme=aura" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushig8-ma&theme=darkhub" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=4&margin-w=10" />
+  </a>
 </p>
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=khushig8&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
