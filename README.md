@@ -50,6 +50,13 @@ Building CRM dashboards, web apps & high-performance UI systems.
 
 </p>
 
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushig8&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+
 ---
 
 ### 🚀 Projects
