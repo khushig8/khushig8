@@ -24,6 +24,10 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ---
 
 ### 📊 GitHub Stats
+  
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=khushig8" alt="Alternate stats"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushig8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="155"/>
