@@ -56,7 +56,7 @@ Building CRM dashboards, web apps & high-performance UI systems.
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| **Leadflow CRM** | Lead management dashboard with roles, filters & analytics | Next.js + Tailwind + Node | Building 🔥 |
+| **Leadflow CRM** | Lead management dashboard with roles, filters & analytics | Next.js + Tailwind + Node | Done |
 | **Gamified Web App (NDA)** | A tap-to-earn mini-app with tasks + rewards | React + Web UI | Done |
 | Shopify/WordPress Sites | Store themes, product pages, UI customization | Shopify/WordPress | Delivered |
 
