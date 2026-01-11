@@ -37,7 +37,7 @@ Building CRM dashboards, web apps & high-performance UI systems.
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushig8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khushig8&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
